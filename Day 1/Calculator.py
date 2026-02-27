@@ -1,7 +1,7 @@
 def calculator():
     num1 = float(input("Enter the first number: "))
     num2 = float(input("Enter the second number: "))
-
+    #Here we are getting input from user
     n = input("select an operation to perform calculation:")
     if n == "add":
         n = num1 + num2
