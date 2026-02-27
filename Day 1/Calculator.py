@@ -23,6 +23,6 @@ def calculator():
         print("Invalid operation! please enter a valid operation")
 
 calculator()
-
+#The above command is to inititate the function
 
         
