@@ -1,0 +1,8 @@
+def even_odd():
+    n = int(input("Enter the number:"))
+    if n%2 == 0:
+        print(f"the number {n} is even")
+    else:
+        print(f"the number {n} is odd")
+
+even_odd()
