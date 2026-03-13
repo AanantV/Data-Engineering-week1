@@ -1,0 +1,32 @@
+[
+    {
+        "ID": 313,
+        "Setup": "Why did Sweden start painting barcodes on the sides of their battleships?",
+        "Punchline": "So they could Scandinavian.",
+        "Type": "general"
+    },
+    {
+        "ID": 34,
+        "Setup": "Why do Java programmers wear glasses?",
+        "Punchline": "Because they don't C#.",
+        "Type": "programming"
+    },
+    {
+        "ID": 143,
+        "Setup": "How many tickles does it take to tickle an octopus?",
+        "Punchline": "Ten-tickles!",
+        "Type": "general"
+    },
+    {
+        "ID": 331,
+        "Setup": "Why did the octopus beat the shark in a fight?",
+        "Punchline": "Because it was well armed.",
+        "Type": "general"
+    },
+    {
+        "ID": 280,
+        "Setup": "When do doctors get angry?",
+        "Punchline": "When they run out of patients.",
+        "Type": "general"
+    }
+]
