@@ -1,0 +1,26 @@
+[
+    {
+        "Amount": 200.0,
+        "From": "USD",
+        "To": "INR",
+        "Result": 18408.0
+    },
+    {
+        "Amount": 500.0,
+        "From": "INR",
+        "To": "USD",
+        "Result": 5.43
+    },
+    {
+        "Amount": 9000.0,
+        "From": "INR",
+        "To": "JPY",
+        "Result": 15440.03
+    },
+    {
+        "Amount": 690.0,
+        "From": "USD",
+        "To": "INR",
+        "Result": 63507.6
+    }
+]

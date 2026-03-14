@@ -1,0 +1,62 @@
+[
+    {
+        "Type": "general",
+        "Setup": "Did you watch the new comic book movie?",
+        "Punchline": "It was very graphic!",
+        "ID": 66
+    },
+    {
+        "Type": "general",
+        "Setup": "What do you get when you cross a rabbit with a water hose?",
+        "Punchline": "Hare spray.",
+        "ID": 231
+    },
+    {
+        "Type": "general",
+        "Setup": "Why did the girl smear peanut butter on the road?",
+        "Punchline": "To go with the traffic jam.",
+        "ID": 324
+    },
+    {
+        "Type": "general",
+        "Setup": "What time did the man go to the dentist?",
+        "Punchline": "Tooth hurt-y.",
+        "ID": 260
+    },
+    {
+        "Type": "general",
+        "Setup": "Why did the golfer bring two pairs of pants?",
+        "Punchline": "In case he got a hole in one.",
+        "ID": 427
+    },
+    {
+        "Type": "general",
+        "Setup": "What do you call a dictionary on drugs?",
+        "Punchline": "High definition.",
+        "ID": 199
+    },
+    {
+        "Type": "programming",
+        "Setup": "What did the router say to the doctor?",
+        "Punchline": "It hurts when IP.",
+        "ID": 366
+    },
+    {
+        "Type": "general",
+        "Setup": "Two guys walk into a bar . . .",
+        "Punchline": "The first guy says \"Ouch!\" and the second says \"Yeah, I didn't see it either.\"",
+        "ID": 365
+    },
+    {
+        "Type": "general",
+        "Setup": "Bad at golf?",
+        "Punchline": "Join the club.",
+        "ID": 79
+    },
+    {
+        "Type": "general",
+        "Setup": "What\u2019s the advantage of living in Switzerland?",
+        "Punchline": "Well, the flag is a big plus.",
+        "ID": 278
+    }
+]

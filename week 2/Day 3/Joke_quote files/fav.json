@@ -1,0 +1,26 @@
+[
+    {
+        "ID": 205,
+        "Type": "Joke",
+        "Content": {
+            "Setup": "What do you call a fat psychic?",
+            "Joke": "A four-chin teller."
+        }
+    },
+    {
+        "ID": 430,
+        "Type": "Quote",
+        "Content": {
+            "Quote": "Take Things As They Are. Punch When You Have To Punch. Kick When You Have To Kick.",
+            "Author": "Bruce Lee"
+        }
+    },
+    {
+        "ID": 409,
+        "Type": "Joke",
+        "Content": {
+            "Setup": "What's the best thing about a Boolean?",
+            "Joke": "Even if you're wrong, you're only off by a bit."
+        }
+    }
+]
