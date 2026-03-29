@@ -1,0 +1,17 @@
+employee_id,name,age,department,salary,hire_date,city,performance_score,status
+1,Alice Johnson,28,Engineering,75000.0,2020-01-15,Boston,4.5,Active
+2,Bob Smith,35,Sales,65000.0,2019-03-22,New York,3.8,Active
+3,Charlie Davis,42,Engineering,95000.0,2018-07-10,San Francisco,4.9,Active
+4,Diana Martinez,31,HR,58000.0,2021-02-01,Chicago,4.2,Active
+8,Henry Taylor,45,Finance,92000.0,2017-05-30,Seattle,4.8,Active
+9,Iris Anderson,27,Marketing,55000.0,2021-06-18,Austin,3.9,Active
+10,Jack Thomas,33,Engineering,82000.0,2020-04-12,Boston,4.3,Active
+12,Leo Garcia,40,HR,61000.0,2018-09-25,Chicago,4.0,Active
+14,Nathan Clark,44,Finance,98000.0,2016-11-08,Seattle,4.9,Active
+15,Olivia Lewis,32,Engineering,79000.0,2020-07-22,San Francisco,4.4,Active
+18,Rachel King,41,Engineering,91000.0,2018-02-17,Boston,4.8,Active
+20,Tina Lopez,34,Sales,67000.0,2020-09-05,New York,4.2,Active
+22,Victor Green,28,Engineering,76000.0,2021-08-11,Austin,4.0,Active
+23,Wendy Adams,43,Marketing,60000.0,2018-06-04,Denver,3.9,Active
+24,Xander Baker,31,Sales,66000.0,2020-03-27,Miami,4.3,Active
+28,Alice Johnson,28,Engineering,75000.0,2020-01-15,Boston,4.5,Inactive

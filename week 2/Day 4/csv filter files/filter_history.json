@@ -1,0 +1,50 @@
+[
+    {
+        "Function name": "Apply_filters",
+        "Filter count": 2,
+        "Filter applied on columns": [
+            "Sex",
+            "Job Title"
+        ],
+        "Numeric filter": null,
+        "String filter": "ist"
+    },
+    {
+        "function_name": "Select Columns",
+        "All column selection": false,
+        "All Columns affected": null,
+        "Numeric Selection": true,
+        "Numeric Columns affected": [
+            "First Name",
+            "Sex",
+            "Phone"
+        ],
+        "Name Selection": true,
+        "Name Columns affected": [
+            "Email"
+        ]
+    },
+    {
+        "Sort type": {
+            "Type": "Unisort",
+            "Unisort info": {
+                "Order": {
+                    "Ascending": true,
+                    "Descending": false
+                },
+                "Column affected in Unisort": "First Name"
+            },
+            "Multisort info": {
+                "Order": {
+                    "Ascending": false,
+                    "Descending": true
+                },
+                "Column affected in Multisort": [
+                    "First Name",
+                    "Sex",
+                    "Phone"
+                ]
+            }
+        }
+    }
+]

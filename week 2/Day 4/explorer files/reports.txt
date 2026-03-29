@@ -1,0 +1,87 @@
+======================================================================
+           DATAFRAME ANALYSIS REPORT
+======================================================================
+Generated: 2026-03-23 18:54:14
+File: Week 2/Day 4/explorer files/employees.csv
+======================================================================
+
+BASIC INFORMATION
+----------------------------------------------------------------------
+Shape: 30 rows x 8 columns
+Number of columns: 8
+Number of rows: 30
+
+Column Names:
+  1. name
+  2. age
+  3. department
+  4. salary
+  5. hire_date
+  6. city
+  7. performance_score
+  8. status
+
+Data Types:
+  name: str
+  age: float64
+  department: str
+  salary: float64
+  hire_date: str
+  city: str
+  performance_score: float64
+  status: str
+
+DUPLICATES
+----------------------------------------------------------------------
+Number of duplicate rows: 2
+
+Duplicate rows:
+                  name   age department   salary   hire_date      city  performance_score  status
+employee_id                                                                                      
+2            Bob Smith  35.0      Sales  65000.0  2019-03-22  New York                3.8  Active
+27           Bob Smith  35.0      Sales  65000.0  2019-03-22  New York                3.8  Active
+
+MISSING VALUES
+----------------------------------------------------------------------
+Total missing values: 13
+
+Missing values per column:
+  age: 3 (10.00%)
+  salary: 4 (13.33%)
+  city: 3 (10.00%)
+  performance_score: 3 (10.00%)
+
+Number of rows with missing values: 13
+
+Rows with missing values:
+                     name   age   department   salary   hire_date           city  performance_score  status
+employee_id                                                                                                
+5              Eve Wilson   NaN    Marketing  62000.0  2020-11-05         Boston                3.5  Active
+6             Frank Brown  29.0        Sales      NaN  2022-01-20          Miami                4.1  Active
+7               Grace Lee  38.0  Engineering  88000.0  2019-08-14            NaN                4.7  Active
+11            Karen White  36.0        Sales  68000.0  2019-12-03       New York                NaN  Active
+13           Mia Robinson  29.0    Marketing      NaN  2022-03-10         Denver                3.7  Active
+16            Paul Walker   NaN        Sales  63000.0  2021-05-14          Miami                3.6  Active
+17             Quinn Hall  37.0    Marketing  59000.0  2019-10-30            NaN                4.1  Active
+19             Sam Wright  30.0           HR      NaN  2022-02-28        Chicago                3.8  Active
+21              Uma Scott  39.0      Finance  94000.0  2017-12-19        Seattle                NaN  Active
+25            Yara Nelson   NaN  Engineering  85000.0  2019-01-09  San Francisco                4.6  Active
+26            Zane Carter  36.0           HR  62000.0  2021-04-16        Chicago                NaN  Active
+29             Emma Davis  26.0    Marketing  54000.0  2022-05-20            NaN                3.4  Active
+30            Liam Miller  47.0      Finance      NaN  2015-08-30        Seattle                4.7  Active
+
+SUMMARY STATISTICS
+----------------------------------------------------------------------
+             age        salary  performance_score
+count  27.000000     26.000000          27.000000
+mean   34.962963  72884.615385           4.200000
+std     6.092123  13764.670495           0.442893
+min    26.000000  54000.000000           3.400000
+25%    29.500000  62000.000000           3.850000
+50%    35.000000  67500.000000           4.200000
+75%    39.500000  84250.000000           4.550000
+max    47.000000  98000.000000           4.900000
+
+======================================================================
+           END OF REPORT
+======================================================================

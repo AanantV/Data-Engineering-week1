@@ -1,0 +1,82 @@
+[
+    {
+        "Generated on": "2026-03-17 17:30:56",
+        "City": "Chennai",
+        "Date": "2026-03-17",
+        "temperature in C": {
+            "temperature": "31",
+            "average temperature": "27",
+            "maximum temperature": "30",
+            "minumum temperature": "25"
+        },
+        "temperature in F": {
+            "temperature": "88",
+            "average temperature": "81",
+            "maximum temperature": "85",
+            "minumum temperature": "77"
+        }
+    },
+    {
+        "Data generated on": "2026-03-17 17:30:56",
+        "Specific region": {
+            "Region Name": "JPY",
+            "Rate": 159.17
+        },
+        "All regions": "Not Requested by user"
+    },
+    {
+        "Generated on": "2026-03-17 17:30:56",
+        "User info": {
+            "name": "Mr Karl-Wilhelm Scheel",
+            "email": "karl-wilhelm.scheel@example.com",
+            "age": 65,
+            "gender": "male",
+            "nationality": "Germany",
+            "location": "7963 Tulpenweg"
+        }
+    },
+    {
+        "Generated on": "2026-03-17 17:30:56",
+        "User info": {
+            "name": "Miss Valeria Lu\u010di\u0107",
+            "email": "valeria.lucic@example.com",
+            "age": 70,
+            "gender": "female",
+            "nationality": "Serbia",
+            "location": "6668 Rusalkina"
+        }
+    },
+    {
+        "Generated on": "2026-03-17 17:30:56",
+        "User info": {
+            "name": "Mrs Naomi Francois",
+            "email": "naomi.francois@example.com",
+            "age": 30,
+            "gender": "female",
+            "nationality": "France",
+            "location": "7083 Rue Dumenge"
+        }
+    },
+    {
+        "Generated on": "2026-03-17 17:30:56",
+        "User info": {
+            "name": "Monsieur Henri Chevalier",
+            "email": "henri.chevalier@example.com",
+            "age": 36,
+            "gender": "male",
+            "nationality": "Switzerland",
+            "location": "9052 Rue du Ch\u00e2teau"
+        }
+    },
+    {
+        "Generated on": "2026-03-17 17:30:56",
+        "User info": {
+            "name": "Mr Emilio L\u00f3pez",
+            "email": "emilio.lopez@example.com",
+            "age": 58,
+            "gender": "male",
+            "nationality": "Spain",
+            "location": "1288 Calle de La Democracia"
+        }
+    }
+]
